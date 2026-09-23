@@ -319,7 +319,7 @@ class _PagaNamesWidgetState extends State<PagaNamesWidget> {
             Align(
               alignment: AlignmentDirectional(-0.02, 0.03),
               child: Text(
-                'Carlos',
+                'Carlos Eduardo Santos',
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
                       font: GoogleFonts.inter(
                         fontWeight:
